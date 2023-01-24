@@ -1,14 +1,15 @@
-#Card-da-copa-brasileira.
-Tecnologias
+# Card-da-copa-brasileira.
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
-Git
-Github
-Figma
-Projeto
+- HTML
+- CSS
+- JavaScript
+- Git
+- Github
+- Figma
+
+### Projeto
 Desenvolvi esse card da copa instruções do Evento gratuito NLW Setup, da RocketSeat. Na usar a funçao click para trocar o card.
 
 Acesse o projeto aqui, online!
